@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="LadokDBModelStoreContainer" CdmEntityContainer="LadokDBEntities">
+    <EntitySetMapping Name="Register">
+      <EntityTypeMapping TypeName="LadokDBModel.Register">
+        <MappingFragment StoreEntitySet="Register">
+          <ScalarProperty Name="register_term" ColumnName="register_term" />
+          <ScalarProperty Name="register_id" ColumnName="register_id" />
+          <ScalarProperty Name="register_student_ssn" ColumnName="register_student_ssn" />
+          <ScalarProperty Name="register_course_occurance_code" ColumnName="register_course_occurance_code" />
+          <ScalarProperty Name="register_test_number" ColumnName="register_test_number" />
+          <ScalarProperty Name="register_date" ColumnName="register_date" />
+          <ScalarProperty Name="register_grade" ColumnName="register_grade" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,11 @@
+C:\Users\sebastian\source\repos\WebApplicationAPITest\CourseDataAccess\bin\Debug\CourseDataAccess.dll.config
+C:\Users\sebastian\source\repos\WebApplicationAPITest\CourseDataAccess\bin\Debug\CourseDataAccess.dll
+C:\Users\sebastian\source\repos\WebApplicationAPITest\CourseDataAccess\bin\Debug\CourseDataAccess.pdb
+C:\Users\sebastian\source\repos\WebApplicationAPITest\CourseDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\sebastian\source\repos\WebApplicationAPITest\CourseDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sebastian\source\repos\WebApplicationAPITest\CourseDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\sebastian\source\repos\WebApplicationAPITest\CourseDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sebastian\source\repos\WebApplicationAPITest\CourseDataAccess\obj\Debug\CourseDataAccess.csprojAssemblyReference.cache
+C:\Users\sebastian\source\repos\WebApplicationAPITest\CourseDataAccess\obj\Debug\CourseDataAccess.csproj.CopyComplete
+C:\Users\sebastian\source\repos\WebApplicationAPITest\CourseDataAccess\obj\Debug\CourseDataAccess.dll
+C:\Users\sebastian\source\repos\WebApplicationAPITest\CourseDataAccess\obj\Debug\CourseDataAccess.pdb

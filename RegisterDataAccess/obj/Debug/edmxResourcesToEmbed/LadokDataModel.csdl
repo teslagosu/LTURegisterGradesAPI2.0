@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="LadokDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Register">
+    <Key>
+      <PropertyRef Name="register_id" />
+    </Key>
+    <Property Name="register_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="register_student_ssn" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="register_course_occurance_code" Type="Int32" />
+    <Property Name="register_test_number" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="register_date" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="register_grade" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="register_term" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityContainer Name="LadokDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Register" EntityType="Self.Register" />
+  </EntityContainer>
+</Schema>

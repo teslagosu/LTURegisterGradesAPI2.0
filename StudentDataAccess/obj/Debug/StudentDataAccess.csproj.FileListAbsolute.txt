@@ -1,0 +1,11 @@
+C:\Users\sebastian\source\repos\WebApplicationAPITest\StudentDataAccess\bin\Debug\StudentDataAccess.dll.config
+C:\Users\sebastian\source\repos\WebApplicationAPITest\StudentDataAccess\bin\Debug\StudentDataAccess.dll
+C:\Users\sebastian\source\repos\WebApplicationAPITest\StudentDataAccess\bin\Debug\StudentDataAccess.pdb
+C:\Users\sebastian\source\repos\WebApplicationAPITest\StudentDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\sebastian\source\repos\WebApplicationAPITest\StudentDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sebastian\source\repos\WebApplicationAPITest\StudentDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\sebastian\source\repos\WebApplicationAPITest\StudentDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sebastian\source\repos\WebApplicationAPITest\StudentDataAccess\obj\Debug\StudentDataAccess.csprojAssemblyReference.cache
+C:\Users\sebastian\source\repos\WebApplicationAPITest\StudentDataAccess\obj\Debug\StudentDataAccess.csproj.CopyComplete
+C:\Users\sebastian\source\repos\WebApplicationAPITest\StudentDataAccess\obj\Debug\StudentDataAccess.dll
+C:\Users\sebastian\source\repos\WebApplicationAPITest\StudentDataAccess\obj\Debug\StudentDataAccess.pdb
